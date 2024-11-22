@@ -12,8 +12,7 @@ export const AboutSection = () => (
                 <div>
                     <p className={"my-2"}>Hello! I’m Luis Bustamante, a 28 years old Venezuelan Industrial
                         Engineer and back-end developer. My journey with computers started young, inspired
-                        by modding platforms in games like Counter-Strike and SA-MP, where I began
-                        programming with the pseudolanguage Pawn.</p>
+                        by modding in multiplayer games, where I began programming with the pseudo-language Pawn.</p>
 
                     <p className={"my-2"}>Although passionate about tech, I pursued a degree in Industrial
                         Engineering, graduating in 2016 from Rafael Belloso Chacín University. During
